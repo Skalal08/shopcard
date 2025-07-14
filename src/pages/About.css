@@ -1,0 +1,36 @@
+.about-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 30px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
+}
+.about-title {
+  font-size: 2.5rem;
+  color: #007bff;
+  margin-bottom: 20px;
+}
+.about-description {
+  font-size: 1.1rem;
+  color: #444;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+.about-section {
+  margin-bottom: 30px;
+}
+.about-section h2 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+.about-section ul {
+  list-style: none;
+  padding: 0;
+}
+.about-section ul li {
+  margin-bottom: 10px;
+  font-size: 1rem;
+  color: #222;
+}
